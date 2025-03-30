@@ -1,1 +1,1 @@
-# algo-from-scratch
+# Algorithms_from_scratch
